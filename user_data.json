@@ -1,0 +1,23 @@
+{
+  "7294507686": {
+    "user_id": 7294507686,
+    "language": "ru",
+    "mode": "time_based",
+    "frequency_minutes": 60,
+    "inactivity_minutes": 45,
+    "active_hours": [
+      9,
+      18
+    ],
+    "reminder_types": [
+      "walk",
+      "water"
+    ],
+    "is_active": false,
+    "timezone_offset": 0,
+    "last_interaction_at": "2026-04-19T18:38:43.850700+00:00",
+    "next_reminder_at": "2026-04-19T19:38:11.541620+00:00",
+    "snoozed_until": null,
+    "last_reminder_sent_at": "2026-04-19T18:38:11.541620+00:00"
+  }
+}
