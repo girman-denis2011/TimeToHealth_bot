@@ -571,7 +571,7 @@ class HealthReminderBot:
 
 
 def main() -> None:
-    token = os.getenv("BOT_TOKEN", "7610586295:AAGmqczl3NA3hLEI2oslKcZdqykTN6nbAk8")
+    token = os.getenv("BOT_TOKEN", "")
     if token == "YOUR_BOT_TOKEN_HERE":
         raise SystemExit(
             "Set your Telegram bot token first. Example:\n"
